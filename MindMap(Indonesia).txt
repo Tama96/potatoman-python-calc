@@ -1,0 +1,19 @@
+Buat calculator menggunakan bahasa pemrograman python
+
+ANALISA
+=======
+FAKTA
+- user dapat melakukan perhitungan dasar ( +, -, /, *)
+- maksimal angka yang dapat diinput hanya dua
+
+MINDMAP
+=======
+- buat fungsi untuk setiap perhitungan
+- buat isi menu seperti berikut : 1 = penambahan, 2 = pengurangan, 3= perkalian, 4 = pembagian
+- buat tampilan menu sederhana untuk setiap perhitungan yaitu penambahan, pengurangan, perkalian, pembagian
+- buat wadah untuk user melakukan input menu apa yang akan dipilih
+- buat wadah untuk user melakukan input nomor pertama dan nomor kedua
+- jika menu yang dipilih == 1 maka lakukan penjumlahan dan tampilkan nomor pertama + nomor kedua = hasil
+- jika menu yang dipilih == 2 maka lakukan pengurangan dan tampilkan nomor pertama - nomor kedua = hasil
+- jika menu yang dipilih == 3 maka lakukan perkalian dan tampilkan nomor pertama * nomor kedua = hasil
+- jika menu yang dipilih == 4 maka lakukan pembagian dan tampilkan nomor pertama / nomor kedua = hasil
