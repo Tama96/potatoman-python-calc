@@ -1,0 +1,19 @@
+create calculator with python programming language
+
+ANALYSIS
+=======
+FACTS
+- user able to perform basic calculation function ( +, -, /, *)
+- maximum input number only two times (num1 and num2)
+
+MINDMAP
+=======
+- create function for every calculation method
+- create menu : 1 = add, 2 = substract, 3 = multiply, 4 = divide
+- create simple menu for every calculation method (add, substract, multiply, divide)
+- create vessel/container (what ever u call it) for user to input menu that they will select
+- create vessel/container for user to input first and secind number 
+- if selected menu == 1 then add first and second number then show by print the first number + second number = result
+- if selected menu == 2 then add first and second number then show by print the first number - second number = result
+- if selected menu == 3 then add first and second number then show by print the first number x second number = result
+- if selected menu == 4 then add first and second number then show by print the first number / second number = result
